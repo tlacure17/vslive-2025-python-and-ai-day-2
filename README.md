@@ -1,4 +1,4 @@
-# Python And AI Workshop - Day 1 - Intro to AI with Python
+# Python And AI Workshop - Day 2 - Intro to AI with Python
 
 ## Harvard CS50 AI with Python
 
